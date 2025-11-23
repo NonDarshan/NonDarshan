@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Darshan 👋</h1>
 
-<!--
-**NonDarshan/NonDarshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>B.Tech CSE (AIML) Student | Python & Machine Learning Learner | Building Daily</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🎓 B.Tech CSE (AIML) student  
+- 🧠 Currently on a **30-day AIML learning journey**  
+- 💻 Learning: Python, NumPy, Pandas, Data Cleaning, ML Basics  
+- 🔥 Goal: Become internship-ready with strong fundamentals & real projects  
+- 🛠 Love building clean, simple, beginner-friendly projects  
+- 📝 I document everything in my repo:  
+  👉 **[aiml-journey](https://github.com/NonDarshan/aiml-journey)**
+
+---
+
+## 🛠️ Tech I'm Working With  
+
+### **Languages**
+- Python  
+
+### **Data & ML Tools**
+- NumPy  
+- Pandas  
+- Jupyter Notebook  
+- scikit-learn  
+
+### **Other Tools**
+- VS Code  
+- Git & GitHub  
+- macOS
+
+---
+
+## 📚 Current Focus: 30-Day AIML Journey  
+
+I am following a structured roadmap:
+- ✔ Day 1: Python basics + 8 exercises + mini project  
+- ⏳ Day 2: NumPy + Pandas + first notebook  
+- 🔜 Day 3+: Data analysis, ML fundamentals, ML algorithms, and projects  
+
+You can track all progress in my repo:
+👉 **[aiml-journey](https://github.com/NonDarshan/aiml-journey)**
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NonDarshan&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonDarshan&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NonDarshan&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+## 🌱 What I'm Learning Next  
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization  
+- ML Models (Linear Regression, KNN, Decision Trees, etc.)  
+- Real-world ML mini-projects  
+
+---
+
+## 📬 Contact  
+- 💼 GitHub: **github.com/NonDarshan**  
+- 📧 Email: **dv968056@gmail.com**
+
+---
+
+<p align="center">🚀 Learning daily. Building daily. Improving daily.</p>
