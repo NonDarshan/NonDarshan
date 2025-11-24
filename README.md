@@ -73,6 +73,7 @@ You can track all progress in my repo:
 ## 📬 Contact  
 - 💼 GitHub: **github.com/NonDarshan**  
 - 📧 Email: **dv968056@gmail.com**
+- 🖇️ LinkedIn: **https://www.linkedin.com/in/darshan-v-vyas/**
 
 ---
 
