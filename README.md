@@ -9,13 +9,7 @@
 ## 🚀 About Me  
 
 - 🎓 B.Tech CSE (AIML) student  
-- 🧠 Currently on a **30-day AIML learning journey**  
 - 💻 Learning: Python, NumPy, Pandas, Data Cleaning, ML Basics  
-- 🔥 Goal: Become internship-ready with strong fundamentals & real projects  
-- 🛠 Love building clean, simple, beginner-friendly projects  
-- 📝 I document everything in my repo:  
-  👉 **[aiml-journey](https://github.com/NonDarshan/aiml-journey)**
-
 ---
 
 ## 🛠️ Tech I'm Working With  
@@ -33,18 +27,6 @@
 - VS Code  
 - Git & GitHub  
 - macOS
-
----
-
-## 📚 Current Focus: 30-Day AIML Journey  
-
-I am following a structured roadmap:
-- ✔ Day 1: Python basics + 8 exercises + mini project  
-- ⏳ Day 2: NumPy + Pandas + first notebook  
-- 🔜 Day 3+: Data analysis, ML fundamentals, ML algorithms, and projects  
-
-You can track all progress in my repo:
-👉 **[aiml-journey](https://github.com/NonDarshan/aiml-journey)**
 
 ---
 
@@ -77,4 +59,3 @@ You can track all progress in my repo:
 
 ---
 
-<p align="center">🚀 Learning daily. Building daily. Improving daily.</p>
